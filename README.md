@@ -1,6 +1,6 @@
 # 🧠 Fin AI Copilot - Customer Support Assistant
 
-**🔗 Live Demo:** [https://fin-ai-copilot.vercel.app]
+**🔗 Live Demo:** https://fin-teal.vercel.app/
 
 This is a full-featured AI-powered customer service copilot interface inspired by modern helpdesk platforms like Intercom and Zendesk. It is designed to improve agent efficiency by providing:
 - Context-aware AI suggestions (using OpenAI or fallback logic)
